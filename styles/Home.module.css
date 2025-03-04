@@ -1,0 +1,24 @@
+.title {
+    flex: 1;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+}
+
+.input {
+    width: 300;
+    height: 40;
+    border-color: #828285;
+    border-width: 1;
+    border-radius: 5;
+}
+
+.botao {
+    background-color: blue;
+    width: 300;
+    height: 50;
+    border-radius: 5;
+    align-items: center;
+    justify-content: center;
+    margin: 10;
+}
